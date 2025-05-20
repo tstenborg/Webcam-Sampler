@@ -8,4 +8,4 @@ Automated sampling of webcam imaging was investigated as a means of meteor data 
 
 N.B. Windows may block the document's macros. To resolve this, right click on the file to open Document Properties. Go to the General tab, Security section and select the Unblock check box.
 
-Reference: Stenborg, TN 2019, "Meteor Candidate Observations from Automated Weather Camera Sampling in VBA", in U Pajer, J Rendtel, M Gyssens and C Verbeeck (eds), Proceedings of the International Meteor Conference, Bollmannsruh, Germany, p. 189.
+Reference: Stenborg, TN 2019, "[Meteor Candidate Observations from Automated Weather Camera Sampling in VBA](www.saasst.ae/images/spsimpleportfolio/uaemmn/IMC2019-Proceedings2019.pdf#page=193)", in U Pajer, J Rendtel, M Gyssens and C Verbeeck (eds), Proceedings of the International Meteor Conference, Bollmannsruh, Germany, p. 189.
