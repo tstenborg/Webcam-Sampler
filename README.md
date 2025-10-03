@@ -32,7 +32,11 @@ The webcam sampler has default settings for target webcams, sampling cadence, sa
 
 ### Execution Options
 
-Ensure VBA macro execution is enabled in Excel. Once complete, there are three main ways to execute the sampler.
+Ensure VBA macro execution is enabled in Excel.
+
+Additionally, ensure Windows isn't also blocking the workbook's macros. To resolve this, right click on the file to open the file's Properties. Go to the General tab, Security section and select the Unblock check box.
+
+Once complete, there are three main ways to execute the sampler.
 
 #### 1. Macro Button
 
